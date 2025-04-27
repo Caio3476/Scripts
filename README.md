@@ -40,7 +40,3 @@ This project includes several AHK scripts designed to automate interactions with
 1. Run the desired script (e.g., `main.ahk`) by double-clicking the script file.
 
 2. Follow the on-screen instructions to interact with the portals and set positions for the units.
-
-## Contributing
-
-Feel free to fork this repository, report issues, and submit pull requests. Contributions are welcome!
