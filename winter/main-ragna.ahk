@@ -6,11 +6,11 @@ CoordMode, Pixel, screen
 #SingleInstance, Force
 ;fazendo gui
 Gui,2:+AlwaysOnTop
-Gui,2:Add,Text,x10, Aperte P para setar onde o allucard vai*LADO DIREITO DA TELA*
-Gui,2:Add,Text,x10, Aperte K para setar onde a ragnar vai*LADO DIREITO DA TELA*
-Gui,2:Add,Text,x10, Aperte Y Para setar onde o speedwagon do meio vai*LADO ESQUERDO DA TELA*
-Gui,2:Add,Text,x10, Aperte U para comecar o macro
-Gui,2:Add,Text,x10, Aperte G para parar o macro
+Gui,2:Add,Text,x10, Press P to set Allucard position
+Gui,2:Add,Text,x10, Press K to set Ragnar position
+Gui,2:Add,Text,x10, Press Y to set Speedwagon position
+Gui,2:Add,Text,x10, Press U to start the macro
+Gui,2:Add,Text,x10, Press G to stop the macro
 Gui,2:+ToolWindow -Caption
 Gui,2:Show,x160 y940
 
