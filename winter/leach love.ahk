@@ -6,8 +6,8 @@ CoordMode, Pixel, screen
 #SingleInstance, Force
 ;fazendo gui
 Gui,2:+AlwaysOnTop
-Gui,2:Add,Text,x10, Aperte U para comecar o macro
-Gui,2:Add,Text,x10, Aperte G para parar o macro
+Gui,2:Add,Text,x10, Press U to start the macro
+Gui,2:Add,Text,x10, Press G to stop the macro
 Gui,2:+ToolWindow -Caption
 Gui,2:Show,x160 y940
 
