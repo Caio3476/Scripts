@@ -24,6 +24,8 @@ This project includes several AHK scripts designed to automate interactions with
 
 ## Requirements
 
+- 1920x1080 display size with 100% scale
+
 - [AutoHotkey](https://www.autohotkey.com/) (version 1.x or higher)
 
 ## Installation
